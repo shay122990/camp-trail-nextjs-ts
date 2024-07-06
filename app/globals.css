@@ -13,6 +13,10 @@
 body {
   font-family: Inter;
 }
+.auto-aspect-ratio {
+  width: auto;
+  height: auto;
+}
 
 @layer utilities {
   .btn_white { 
